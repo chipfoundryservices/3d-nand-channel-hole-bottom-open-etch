@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init *)",
+      "Bash(cat)",
+      "Bash(chmod +x /tmp/create_chapters.sh)",
+      "Bash(/tmp/create_chapters.sh)",
+      "Bash(git add *)"
+    ]
+  }
+}
